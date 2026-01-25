@@ -97,7 +97,6 @@ Stay updated on competitor mentions and press coverage.
 
 - **[Google Alerts](https://www.google.com/alerts)** - Free email alerts for web mentions.
 - **[Talkwalker](https://www.talkwalker.com/)** - Social listening and media monitoring.
-- **[Meltwater](https://www.meltwater.com/)** - Media intelligence and monitoring.
 - **[Cision](https://www.cision.com/)** - PR and media monitoring platform.
 - **[Mention](https://mention.com/)** - Real-time monitoring of web and social mentions.
 
