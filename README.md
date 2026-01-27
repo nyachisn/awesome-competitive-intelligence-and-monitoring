@@ -1,4 +1,4 @@
-# Awesome Competitive Intelligence [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Competitive Intelligence and Monitoring [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of competitive intelligence tools, resources, frameworks, and best practices for tracking and analyzing competitors.
 
